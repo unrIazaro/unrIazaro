@@ -47,7 +47,7 @@ Olá, eu sou o Lázaro Ferreira! Tenho 18 anos, estou concluindo o Ensino Médio
     title="Git"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg)" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
 
 <img 
     align="left"
