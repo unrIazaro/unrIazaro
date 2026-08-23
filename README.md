@@ -84,3 +84,6 @@ Olá, eu me chamo Lázaro Ferreira. Tenho 18 anos, estou concluindo o Ensino Mé
     style="padding-right: 10px;"
     src="https://github-stats-extended.vercel.app/api?username=unrIazaro&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
 />
+
+<img width="943" height="686" alt="image" src="https://github.com/user-attachments/assets/7292c406-745f-45cd-8308-f711e6e226a0" />
+
