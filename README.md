@@ -2,11 +2,7 @@
 
 **`Desenvolvedor Web Full Stack`**
 
-👋 Olá, eu sou o Lázaro Ferreira! Tenho 18 anos, estou concluindo o Ensino Médio no SESI e cursando técnico em Desenvolvimento de Sistemas no SENAI.
-
-Minha base começou com a lógica pura em Portugol, C e Java, o que me deu uma estrutura excelente de programação. Hoje, meu foco principal e onde mais me me destaco é na Web Full Stack, criando aplicações do zero ao banco de dados.
-
-🚀 Sempre focado em evoluir meu código, resolver problemas reais e aprender novas tecnologias.
+Olá, eu sou o Lázaro Ferreira! Tenho 18 anos, estou concluindo o Ensino Médio no SESI e cursando técnico em Desenvolvimento de Sistemas no SENAI. Minha base começou com a lógica pura em Portugol, C e Java, o que me deu uma estrutura excelente de programação. Hoje, meu foco principal e onde mais me me destaco é na Web Full Stack, criando aplicações do zero ao banco de dados. Sempre focado em evoluir meu código, resolver problemas reais e aprender novas tecnologias.
 
 --- 
 
